@@ -377,8 +377,8 @@ def banner():
       ╚════{lgr}::{lg}║{lgr}::{lg}╔══{lgr}::{lg}║{lgr}::{lg}║   {lgr}::{lg}║{lgr}::{lg}║     {lgr}::{lg}╔══{lgr}::{lg}║   {lgr}::{lg}║   
       {lgr}:::::::{lg}║{lgr}::{lg}║  {lgr}::{lg}║╚{lgr}::::::{lg}╔╝{lgr}:::::::{lg}╗{lgr}::{lg}║  {lgr}::{lg}║   {lgr}::{lg}║   
       ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝
-              {lw}Programmer Muslim Nggak Lupa Ibadah{lg}
-                  {lg}[{x}Spesial Ramadhan 1442 H{lg}]
+              {lg}Selamat menunaikan ibadah puasa{lg}
+                {lg}[{x}Spesial Ramadhan 1442 H{lg}]
 _______________________________________________________________
 ''')                                                  
 
