@@ -378,7 +378,7 @@ def banner():
       {lgr}:::::::{lg}║{lgr}::{lg}║  {lgr}::{lg}║╚{lgr}::::::{lg}╔╝{lgr}:::::::{lg}╗{lgr}::{lg}║  {lgr}::{lg}║   {lgr}::{lg}║   
       ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝
               {lg}Selamat menunaikan ibadah puasa{lg}
-                {lg}[{x}Spesial Ramadhan 1442 H{lg}]
+                {lg}[{x}Spesial Ramadhan 1443 H{lg}]
 _______________________________________________________________
 ''')                                                  
 
